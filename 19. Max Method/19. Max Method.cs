@@ -10,13 +10,20 @@ namespace _19.Max_Method
     {
         static void Main(string[] args)
         {
-            int a = int.Parse(Console.ReadLine());
-            int b = int.Parse(Console.ReadLine());
-            int c = int.Parse(Console.ReadLine());
-
-            int firstTwo = (Math.Max(a,b));
-            Console.WriteLine(Math.Max(firstTwo, c));
+           
+            GetMax();
 
         }
+        
+        static void GetMax()
+        {
+            int a = int.Parse(Console.ReadLine());
+            int b = int.Parse(Console.ReadLine());
+            int max = Math.Max(a, b);
+            Console.WriteLine(max);
+        }
+
+
+
     }
 }

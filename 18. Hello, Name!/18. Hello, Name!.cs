@@ -12,8 +12,13 @@ namespace _18.Hello__Name_
         {
             string name = Console.ReadLine();
 
-            Console.WriteLine("Hello, {0}!", name);
+            readLine(name);
 
+        }
+
+        static void readLine (string name)
+        {
+            Console.WriteLine("Hello, {0}!", name);
         }
     }
 }

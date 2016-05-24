@@ -3,3 +3,4 @@
 \\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\18. Hello, Name!\bin\Debug\_18.Hello__Name_.pdb
 \\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\18. Hello, Name!\obj\Debug\_18.Hello__Name_.exe
 \\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\18. Hello, Name!\obj\Debug\_18.Hello__Name_.pdb
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\18. Hello, Name!\obj\Debug\18. Hello, Name!.csprojResolveAssemblyReference.cache
