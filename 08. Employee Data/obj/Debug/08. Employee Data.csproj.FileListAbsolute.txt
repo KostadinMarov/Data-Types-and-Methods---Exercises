@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\08. Employee Data\bin\Debug\_08.Employee_Data.exe.config
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\08. Employee Data\bin\Debug\_08.Employee_Data.exe
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\08. Employee Data\bin\Debug\_08.Employee_Data.pdb
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\08. Employee Data\obj\Debug\_08.Employee_Data.exe
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\08. Employee Data\obj\Debug\_08.Employee_Data.pdb

@@ -1,0 +1,5 @@
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\20. English Name Of The Last Digit\bin\Debug\_20.English_Name_Of_The_Last_Digit.exe.config
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\20. English Name Of The Last Digit\bin\Debug\_20.English_Name_Of_The_Last_Digit.exe
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\20. English Name Of The Last Digit\bin\Debug\_20.English_Name_Of_The_Last_Digit.pdb
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\20. English Name Of The Last Digit\obj\Debug\_20.English_Name_Of_The_Last_Digit.exe
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\20. English Name Of The Last Digit\obj\Debug\_20.English_Name_Of_The_Last_Digit.pdb

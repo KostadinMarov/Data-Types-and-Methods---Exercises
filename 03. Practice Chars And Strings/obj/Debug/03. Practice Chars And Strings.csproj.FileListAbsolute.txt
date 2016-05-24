@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\03. Practice Chars And Strings\bin\Debug\_03.Practice_Chars_And_Strings.exe.config
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\03. Practice Chars And Strings\bin\Debug\_03.Practice_Chars_And_Strings.exe
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\03. Practice Chars And Strings\bin\Debug\_03.Practice_Chars_And_Strings.pdb
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\03. Practice Chars And Strings\obj\Debug\_03.Practice_Chars_And_Strings.exe
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\03. Practice Chars And Strings\obj\Debug\_03.Practice_Chars_And_Strings.pdb

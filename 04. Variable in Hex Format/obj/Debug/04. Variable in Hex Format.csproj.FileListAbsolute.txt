@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe.config
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.pdb
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.exe
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.pdb

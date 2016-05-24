@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.pdb
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb

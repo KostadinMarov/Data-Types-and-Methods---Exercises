@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe.config
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\10. Centuries to Nanoseconds\obj\Debug\10. Centuries to Nanoseconds.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.pdb
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.exe
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.pdb

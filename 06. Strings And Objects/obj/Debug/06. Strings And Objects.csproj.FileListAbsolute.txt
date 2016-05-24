@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe.config
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.pdb
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.exe
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.pdb

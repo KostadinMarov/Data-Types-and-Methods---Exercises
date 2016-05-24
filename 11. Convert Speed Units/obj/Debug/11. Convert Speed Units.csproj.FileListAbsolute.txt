@@ -1,0 +1,6 @@
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.exe.config
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.exe
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.pdb
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\11. Convert Speed Units\obj\Debug\_11.Convert_Speed_Units.exe
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\11. Convert Speed Units\obj\Debug\_11.Convert_Speed_Units.pdb
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\11. Convert Speed Units\obj\Debug\11. Convert Speed Units.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.exe.config
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.exe
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.pdb
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\02. Practice Floating Points\obj\Debug\02. Practice Floating Points.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\02. Practice Floating Points\obj\Debug\_02.Practice_Floating_Points.exe
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\02. Practice Floating Points\obj\Debug\_02.Practice_Floating_Points.pdb

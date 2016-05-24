@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe.config
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\09. Reversed chars\bin\Debug\_09.Reversed_chars.pdb
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\09. Reversed chars\obj\Debug\_09.Reversed_chars.exe
+\\psf\home\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\09. Reversed chars\obj\Debug\_09.Reversed_chars.pdb
