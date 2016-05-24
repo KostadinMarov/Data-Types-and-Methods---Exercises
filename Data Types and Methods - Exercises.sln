@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19. Max Method", "19. Max M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20. English Name Of The Last Digit", "20. English Name Of The Last Digit\20. English Name Of The Last Digit.csproj", "{DFBFF1F0-0793-4ABB-A211-3C2E89118396}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsDemo", "MethodsDemo\MethodsDemo.csproj", "{8C625F24-1D7C-4A32-904F-0B705CF3C7B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{DFBFF1F0-0793-4ABB-A211-3C2E89118396}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFBFF1F0-0793-4ABB-A211-3C2E89118396}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFBFF1F0-0793-4ABB-A211-3C2E89118396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C625F24-1D7C-4A32-904F-0B705CF3C7B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C625F24-1D7C-4A32-904F-0B705CF3C7B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C625F24-1D7C-4A32-904F-0B705CF3C7B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C625F24-1D7C-4A32-904F-0B705CF3C7B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

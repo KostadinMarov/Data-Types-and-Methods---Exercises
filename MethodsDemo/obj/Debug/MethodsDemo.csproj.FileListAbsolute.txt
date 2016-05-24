@@ -1,0 +1,6 @@
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\MethodsDemo\bin\Debug\MethodsDemo.exe.config
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\MethodsDemo\bin\Debug\MethodsDemo.exe
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\MethodsDemo\bin\Debug\MethodsDemo.pdb
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\MethodsDemo\obj\Debug\MethodsDemo.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\MethodsDemo\obj\Debug\MethodsDemo.exe
+\\psf\Home\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\MethodsDemo\obj\Debug\MethodsDemo.pdb

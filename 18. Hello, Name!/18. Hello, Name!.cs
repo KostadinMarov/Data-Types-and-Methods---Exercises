@@ -10,10 +10,8 @@ namespace _18.Hello__Name_
     {
         static void Main(string[] args)
         {
-            string name = Console.ReadLine();
 
-            readLine(name);
-
+            readLine(Console.ReadLine());
         }
 
         static void readLine (string name)
