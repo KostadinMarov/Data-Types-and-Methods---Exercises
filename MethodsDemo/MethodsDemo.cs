@@ -11,15 +11,15 @@ namespace MethodsDemo
         static void Main(string[] args)
         {
 
+
+
            
-            PrintSign(-5);
-           
-            PrintMax(100f, 200f);
 
         }
         static double GetRactangleArea(double width, double height)
         {
             double area = width * height;
+            Console.WriteLine(area);
             return area;
         }
 

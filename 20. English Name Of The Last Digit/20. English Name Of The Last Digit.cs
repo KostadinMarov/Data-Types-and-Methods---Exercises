@@ -14,7 +14,7 @@ namespace _20.English_Name_Of_The_Last_Digit
             Console.WriteLine(GetNameOfLastDigit(a));
         }
 
-        private static string GetNameOfLastDigit(long a)
+        static string GetNameOfLastDigit(long a)
         {
             long lastDigit = Math.Abs(a % 10);
             string nameOfDigit = null;
